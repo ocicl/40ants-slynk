@@ -1,0 +1,10 @@
+* 40ants-slynk
+
+Utilities to start SLYNK if needed and to track active connections.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/40ants/slynk.git |
+| commit  | ab67a0e                                       |
+| systems | 40ants-slynk                                  |
+|---------+-----------------------------------------------|
+
